@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <name>common_parent</name>
   <description>bos v2.0综合平台的公共父项目，用于统一依赖管理</description>
+  <!-- 随便写 -->
   
  <properties>
 		<spring.version>4.1.7.RELEASE</spring.version>
